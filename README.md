@@ -19,7 +19,7 @@ Este proyecto es parte de mi formación en desarrollo de aplicaciones multiplata
 
 🚧 Proyecto en desarrollo. Próximamente se añadirá interfaz gráfica o integración web.
 
-## Autor
+## Autora
 
 Laura – Estudiante de 1º DAM
 
